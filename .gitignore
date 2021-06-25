@@ -5,7 +5,11 @@
 /library/
 /temp/
 /local/
-/build/
+/build/jsb-default/*.json
+/build/jsb-default/*.js
+/build/jsb-default/[a-q]*/
+/build/jsb-default/[s-z]*/
+/build/web-mobile/
 
 #/////////////////////////////////////////////////////////////////////////////
 # npm files
