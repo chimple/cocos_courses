@@ -53,6 +53,7 @@ Thumbs.db
 #//////////////////////////
 
 .vscode/
+/scripts/venv
 assets/course-en
 assets/course-hi
 assets/course-kn
