@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bahama-hi-stage",
+  "private_key_id": "fb70b4cad6a28d9d6d93fc75e87a69bc2c641ccd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+MUnZbW7/RwZI\nte8vzC984y5nWWS0/V2BNV+W4lNxLjLbWi0NYoID2gfaQQnXLVf+z+dfQuhFT3Se\ne6zvQSfOfSrXvIDeIxTY6oZ0TIar6cZYA3hYmlOUj93O5e6GXJ9fiDNj90Oznw2g\nYKyk7SgeuY8cIwPIEwut1ypfPNREa/Reg2FwjsgJaxjhFuFjo+RKDTOCNFXNj9Bb\njOalXT8cGVBtFxUTN0Q3TcohD6WYdnC/QTSgkT44BxeLoGuxcmRAf12zaIL9YSwm\nnlXWCOfXqauYFSW7OE+djmNlSb0Ic+j2dRYxp1PdkPHhzSGgsZCiURwD/WkcfCjD\nRVbAag27AgMBAAECggEAXVJX9xzQMugJuFG1DFH3FyNt2H4vgPM1Fzo2LhXddZKC\nl8j2hDPKsdMguUHibzerjrc6wy5UQ/YJtd3fbAIfYx1dkT/IR7cU+p6Q3K3UArSR\ngwwo1+jZi/LPlj6SPFFkTf7JoIpqKM+pYwEslTxczD6mbtrrdxeJSoJiIxr42Jz5\njwTWt0WqLkPuTt+pKoEoITSvQDJuIqX22WXsHLTN3nDrDPafuLiKINsZ/yVuqZrd\nVUi2lRR63fQXETfRFiPJhORiQv/G/YdRu5cfA75VDB3/prJ/PE5N0fEPwwb+NXhr\n/r8Qg+Qsp2wJpL+dRQrxx+j2NJjZw0r23vg7hngyqQKBgQD7HxSIkzps+U0JMrGx\nMi5dGxZLWopgtOdE7FDUdPFvbO046PKyBfB/Disi7R8K4BKOSzVRqe4CeaO/QelN\netI8g3JmeAGN0VYY20T6JGHRasEHoWiys+XdYfZanKQZAFoPCce7EHGqcmB/OHYk\nv+9EitkzarD+npxDrtDTkBFHDQKBgQDB4y+4DoBP+1zD2MulL5XwoZZssIv/a8km\nEqqpD1YMp7j08VhPiW7nCAYjYjahXguTCKUerhrg+Dd40mXLaXcWYtymSkPTfqzl\nNYuSK/hEWTiR9199zy1c95ero9p/4JgBLbez/4Fl2XVtzphOo7qLcCOwWa6inX1a\nXnWPMkJ15wKBgQDGI8nR0UkiPrqX7VXjGFMYx4yZvEC++T4ZVdSZLgRqBKpQYw1L\nhgAyX/2NO0dpD0/U0mapnsjbTxryh5ELv0Mu2BBl5X5kZa3nQutz60z7LZ5M5QB1\nMBjIysjUyg94YpysjOz5HopxEHovJ1+gs4iYrm2eciphXMizZrYCmAPp6QKBgFzD\n0gUCCyo5XbzmcSjrh5XF+i6umYzviSIKNFUG3WjYpomrH1GOs90d3bH4P6MdV/RV\nYos3SezxVbkdEU8teqjfTCrTxXffV+GiqNCa8QHinkpYTPvosA+W9p5MmzIrxw5p\nTUd1q/eK/8A15HFbrNkiIjEx93geWedu4lhM97dpAoGABiHK9x8I9PyZBzhLUpfq\n/x/R8LK6zZ+tSIVZGvMOuIvYjbyZ605Bw/sA/Xh7cH1pp0ynZ/kiPMfpJjVWmXGJ\n6AD8Yt9yeCDA+uOY1kgfmOGCvEloC3oxH6v7el88B2Bpo4+ohSmRiEtJ/4bWUPpl\nhNQHrk+IGufnFQp7SwndMEg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bahama-hi-stage@bahama-hi-stage.iam.gserviceaccount.com",
+  "client_id": "111252589118892714021",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bahama-hi-stage%40bahama-hi-stage.iam.gserviceaccount.com"
+}
