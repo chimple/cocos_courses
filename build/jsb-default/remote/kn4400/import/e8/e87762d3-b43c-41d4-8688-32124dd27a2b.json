@@ -1,1 +1,1 @@
-[1,0,0,[["cc.JsonAsset",["_name","json"],1]],[[0,0,1,3]],[[0,"kn4400",{"rows":[["writeletter","1","Description","ರೆ ","-"],["writeletter","1","Description","ಗೆ ","-"],["writeletter","1","Description","ಸೆ ","-"],["writeletter","1","Description","ದೆ ","-"],["writeletter","1","Description","ಜೆ ","-"],["writeletter","1","Description","ವೆ ","-"]]}]],0,0,[],[],[]]
+[1,0,0,[["cc.JsonAsset",["_name","json"],1]],[[0,0,1,3]],[[0,"kn4400",{"rows":[["grid","1","Description","ರ,ಗ,ಸ ","ಎ ","ೆ"],["grid","1","Description","ದ,ಜ,ವ ","ಎ ","ೆ"]]}]],0,0,[],[],[]]

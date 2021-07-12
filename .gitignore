@@ -54,6 +54,8 @@ Thumbs.db
 
 .vscode/
 /scripts/venv
+/scripts/service-account*.json
+/scripts/assets
 assets/course-en
 assets/course-hi
 assets/course-kn
