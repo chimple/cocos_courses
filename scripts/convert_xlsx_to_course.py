@@ -38,7 +38,7 @@ def cell_value(cell):
 		print('date: ' + cell_value(cell))
 	if isinstance(cell.value, float):
 		return str(int(cell.value))
-	return str(cell.value)
+	return str(cell.value).strip()
 
 course = []
 quiz = False
