@@ -45,10 +45,10 @@ for json_file in glob(args.course_dir + '/**/*.json', recursive=True):
                         else:
                             if not os.path.isfile(os.path.dirname(json_file) + '/' + item): 
                                 print('No image file: '+item)
-if args.audio:
-    new_dict = {k: v for k, v in available_audio.items() if v == 0}
-    print(new_dict)
+# if args.audio:
+#     new_dict = {k: v for k, v in available_audio.items() if v == 0}
+#     print(new_dict)
 
-if args.images:
-    new_dict = {k: v for k, v in available_images.items() if v == 0}
-    print(new_dict)    
+# if args.images:
+#     new_dict = {k: v for k, v in available_images.items() if v == 0}
+#     print(new_dict)    
