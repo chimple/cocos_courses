@@ -70,7 +70,10 @@ for row in ws:
 			"lessons": []			
 		})
 	elif row[1].value is not None:
-		lesson_id = chapter_id + '{:02d}'.format(len(course[-1]["lessons"]))
+		if chapter_id == args.course_id + 'quiz':
+			lesson_id = args.course_id + row[1].value
+		else:
+			lesson_id = chapter_id + '{:02d}'.format(len(course[-1]["lessons"]))
 		course[-1]["lessons"].append({
 			"id": lesson_id,
 			"name": cell_value(row[1]),
