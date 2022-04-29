@@ -25,7 +25,8 @@ voice = texttospeech.VoiceSelectionParams(
 
 # Select the type of audio file you want returned
 audio_config = texttospeech.AudioConfig(
-    audio_encoding=texttospeech.AudioEncoding.MP3
+    audio_encoding=texttospeech.AudioEncoding.MP3,
+    speaking_rate=0.8
 )
 
 with open("input.txt", "r") as input:

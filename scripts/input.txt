@@ -1,2 +1,13 @@
-apple.mp3	Apple
-this is a dog.mp3	This is a dog
+congratulations.mp3	 अभिनंदन
+excellent.mp3	 अद्भुत
+good_job.mp3	 चांगले काम
+help.mp3	 मदत
+i_am_hungry.mp3	 मला भूक लागली आहे
+i_enjoyed_eating.mp3	 मी जेवायचा आनंद घेतला.
+let_us_start_our_learning_journey.mp3	 आपला शिकायचा प्रवास सुरू करूयात.
+may_i_help_you.mp3	 मी तुम्हाला काही मदत करू शकते?
+my_name_is_chimple.mp3	 माझे नाव  चीम्पल आहे
+start.mp3	 सुरू
+try_again.mp3	 पुन्हा प्रयत्न करा
+very_good.mp3	 अति उत्तम
+you_are_getting_better.mp3	 आता तुम्हाला व्यवस्थित कळले आहे.
